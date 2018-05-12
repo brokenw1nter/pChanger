@@ -9,7 +9,7 @@ Nothing have been changed as of the post.
 - Auto Accept may not always work
 - No Name Clan Tag doesn't hide name in kill feed
 - Inventory Changer doesn't save in Configs
-## Note for Those That Are Pasting
+## Note for Compiling
 You will have to change the VC++ Directories yourself, otherwise you will receive a lot of errors.
 ## Agreement
 If you are to use this, I hold no responsibilities for you getting VAC Banned, Untrusted Banned, or Game Banned. So use this at your own discretion.
