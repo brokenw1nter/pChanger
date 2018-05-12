@@ -5,4 +5,4 @@ You will have to change the VC++ Directories yourself, otherwise you will receiv
 ## Agreement
 If you are to use this, I hold no responsibilities for you getting VAC Banned, Untrusted Banned, or Game Banned. So use this at your own discretion.
 ## Images
-![pChanger](https://imgur.com/a/CFY9TRG)
+If you would like to see images of the menu and features, you can go to this link - https://imgur.com/a/CFY9TRG
