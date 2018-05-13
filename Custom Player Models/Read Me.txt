@@ -1,0 +1,13 @@
+Do NOT change the name of the folder unless you changed the code!
+If you change the name without changing the code, the models will NOT work!
+
+1. Navigate to "...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\models"
+2. Move the "pChanger" folder into the directory above
+3. Start Counter-Strike: Global Offensive
+4. Inject pChanger
+5. Open the GUI
+6. Open Misc Tab
+7. Open Page #2
+8. Click on "Enable Custom Models"
+9. Select Preferred Models
+10. Click "Update"
