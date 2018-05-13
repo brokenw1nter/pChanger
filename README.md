@@ -1,5 +1,5 @@
 # pChanger | Changing Things Up
-A simple C++ cheat for Counter-Strike: Global Offensive that has the main goal of keeping the game legit but visually appealing and fun. The only thing that may give an advantage is the Auto Bunnyhop, Hitmarkers, No Flash, No Smoke, and Wire Smoke. Besides that, this cheat is purely for fun and doesn't include Aimbot, Triggerbot, ESP, or any other game advantage features.
+A simple C++ cheat for Counter-Strike: Global Offensive that has the main goal of keeping the game legit but visually appealing and fun. The only thing that may give an advantage is the Auto Bunnyhop, Hitmarkers, No Flash, No Smoke, and Wire Smoke. But besides that, this cheat is purely for fun and doesn't include Aimbot, Triggerbot, ESP, or any other game advantage features.
 ## Changelog
 Nothing have been changed as of the post.
 ## Known Bugs
