@@ -9,8 +9,17 @@ Nothing have been changed as of the post.
 - Auto Accept may not always work
 - No Name Clan Tag doesn't hide name in kill feed
 - Inventory Changer doesn't save in Configs
-## Note for Compiling
-You will have to change the VC++ Directories yourself, otherwise you will receive a lot of errors.
+## Instructions
+1. Open the Microsoft Visual Studio Solution
+2. Right-Click on "pChanger" which is under "Solution 'pChanger' (1 project)"
+3. Click on "Properties"
+4. In the pop-up window click on "VC++ Directories"
+5. Update the "Include Directories" to wherever you put your files
+6. Update the "Library Directories" as well if needed
+7. Click "Apply"
+8. At the top of the software, make sure it says "Release" and "x86"
+9. Press "F7" on your keyboard to compile
+10. Follow the instructions in the "Custom Player Models" folder
 ## Agreement
 If you are to use this, I hold no responsibilities for you getting VAC Banned, Untrusted Banned, or Game Banned. So use this at your own discretion.
 ## Images
