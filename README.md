@@ -5,7 +5,7 @@ Nothing have been changed as of the post.
 ## Known Bugs
 - No Smoke and Wire Smoke are bugged when inside of smoke
 - Custom Models don't crouch or walk
-- Menu Theme and GUI Settings don't work
+- Menu Theme and Menu Color Settings don't work
 - Auto Accept may not always work
 - No Name Clan Tag doesn't hide name in kill feed
 - Inventory Changer doesn't save in Configs
